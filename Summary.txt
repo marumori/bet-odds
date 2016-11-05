@@ -20,4 +20,6 @@ Glossary:
 Go to terminal
 Type python HDC.py
 
+#fileInitialHDC.txt is a demo of what the parsing result should you expect.
+
 #this is written in python 2.7
